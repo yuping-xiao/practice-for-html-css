@@ -43,6 +43,7 @@ header .headline {
 	height: 300px;
 	background-image: url(img/mv.jpg);
 	background-size: cover; /* 縦横比を維持したまま背景領域を埋め尽くす */
+	background-position: center; /* 背景画像を中央に配置 */
 }
 .main-visual-content {
 	width: 350px;
