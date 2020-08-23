@@ -75,6 +75,37 @@ main {
 	text-align: center;
 	line-height: 0.6;
 }
+.blog-item {
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #f7f7f7;
+}
+.blog-box {
+	padding-top: 50px;
+}
+.blog-image {
+	width: 180px;
+	float: left;
+}
+.blog-text {
+	float: left;
+	padding: 15px 0 0 25px;
+}
+.blog-text-headline {
+	padding-bottom: 10px;
+}
+.blog-date {
+	font-size: 12px;
+	display: inline-block;
+}
+.category {
+	display: inline-block;
+	padding: 5px 8px;
+	background-color: #acabab;
+	border-radius: 3px;
+	color: #fff;
+	font-size: 11px;
+}
 .sidebar {
 	width: 230px;
 	float: left;
